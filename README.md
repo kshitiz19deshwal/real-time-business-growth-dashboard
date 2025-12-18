@@ -21,24 +21,28 @@ It demonstrates how raw data can be transformed into **actionable KPIs, growth m
 - 🧠 Automated business insights  
 - ☁️ Deployed live on Streamlit Cloud  
 
----
 
-## 🏗️ Architecture
+##  Architecture
 
 Data Ingestion
+
 ↓
+
 Data Processing & Feature Engineering
+
 ↓
+
 Business Metrics Engine
+
 ↓
+
 Automated Insights
+
 ↓
+
 Streamlit Dashboard (Cloud Deployed)
 
-yaml
-Copy code
 
----
 
 ## 🛠️ Tech Stack
 
@@ -49,12 +53,4 @@ Copy code
 - GitHub
 - Streamlit Cloud
 
----
 
-## ▶️ Run Locally
-
-```bash
-git clone https://github.com/kshitiz19deshwal/real-time-business-growth-dashboard.git
-cd real-time-business-growth-dashboard
-pip install -r requirements.txt
-streamlit run dashboard/app.py
